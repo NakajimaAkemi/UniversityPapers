@@ -7,3 +7,5 @@ This paper has been written under the following University of Modena and Reggio-
 
 
 Document link: https://iris.unimore.it/retrieve/7e7fb3a2-882d-4cd2-8cf7-e1fb10414557/algorithms-16-00441-v2.pdf
+
+As for the second part of the course it can be found here: https://github.com/NakajimaAkemi/Microservices-containerization
